@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NIGHT</key>
+	<dict>
+		<key>textFont</key>
+		<dict>
+			<key>size</key>
+			<integer>14</integer>
+			<key>name</key>
+			<string>system</string>
+		</dict>
+	</dict>
+	<key>RED</key>
+	<dict>
+		<key>textFont</key>
+		<dict>
+			<key>size</key>
+			<integer>25</integer>
+			<key>name</key>
+			<string>CourierNewPSMT</string>
+		</dict>
+	</dict>
+	<key>NORMAL</key>
+	<dict>
+		<key>textFont</key>
+		<dict>
+			<key>name</key>
+			<string>Helvetica-BoldOblique</string>
+			<key>size</key>
+			<string>40</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NIGHT</key>
+	<dict>
+		<key>backgroundImage</key>
+		<string>home_img_bg</string>
+		<key>itemImage</key>
+		<string>tab_icon_home_selected</string>
+		<key>itemSelectedImage</key>
+		<string>tab_icon_home_default</string>
+	</dict>
+	<key>RED</key>
+	<dict>
+		<key>backgroundImage</key>
+		<string>home_img_bg_ipad</string>
+		<key>itemImage</key>
+		<string>tab_icon_video_selected</string>
+		<key>itemSelectedImage</key>
+		<string>tab_icon_video_default</string>
+	</dict>
+	<key>NORMAL</key>
+	<dict>
+		<key>backgroundImage</key>
+		<string>leftbackiamge</string>
+		<key>itemImage</key>
+		<string>tab_icon_room_selected</string>
+		<key>itemSelectedImage</key>
+		<string>tab_icon_room_default</string>
+	</dict>
+</dict>
+</plist>

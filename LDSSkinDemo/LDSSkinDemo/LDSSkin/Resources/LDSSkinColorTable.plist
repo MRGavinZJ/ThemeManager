@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NIGHT</key>
+	<dict>
+		<key>backgroundColor</key>
+		<string>#343434</string>
+		<key>separatorColor</key>
+		<string>#313131</string>
+		<key>tintColor</key>
+		<string>#ffffff</string>
+		<key>textColor</key>
+		<string>#ffffff</string>
+		<key>barColor</key>
+		<string>#444444</string>
+		<key>hightLightColor</key>
+		<string>#222222</string>
+	</dict>
+	<key>RED</key>
+	<dict>
+		<key>backgroundColor</key>
+		<string>#009688</string>
+		<key>separatorColor</key>
+		<string>#aaaaaa</string>
+		<key>tintColor</key>
+		<string>#fa0000</string>
+		<key>textColor</key>
+		<string>#000000</string>
+		<key>barColor</key>
+		<string>#ffffff</string>
+		<key>hightLightColor</key>
+		<string>#dedede</string>
+	</dict>
+	<key>NORMAL</key>
+	<dict>
+		<key>backgroundColor</key>
+		<string>#ffffff</string>
+		<key>separatorColor</key>
+		<string>0x004aff</string>
+		<key>tintColor</key>
+		<string>#0000ff</string>
+		<key>textColor</key>
+		<string>#000000</string>
+		<key>barColor</key>
+		<string>0x004aff</string>
+		<key>hightLightColor</key>
+		<string>#f0f0f0</string>
+	</dict>
+</dict>
+</plist>
